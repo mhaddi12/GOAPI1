@@ -11,7 +11,7 @@ This is a simple REST API for managing employee profiles. The API allows you to 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/employee-profiles-api.git
+    git clone https://github.com/mhaddi12/employee-profiles-api.git
     cd employee-profiles-api
     ```
 
